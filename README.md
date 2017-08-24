@@ -26,5 +26,5 @@ Our contributions are threefold:
 (3) we demonstrate the benefits of the learned geometry-aware representation in grasping planning.
 
 ### Video Demo
-Please check a short video demo 
-[linkname](https://youtubevideourl)
+A short video demo regarding details about data collection and experimental results:  
+[link](https://youtu.be/ii7CuDZlxZs)
