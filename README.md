@@ -42,4 +42,4 @@ The outcome prediction network has a 2D convolutional state encoder and a fully 
 A short video demo regarding details about data collection and experimental results: [link](https://youtu.be/ii7CuDZlxZs)
 
 ### Acknowledement
-We thank Brain Research, Brain Robotics and X colleagues for their help to this project!
+We thank [Brain Research](https://research.google.com/teams/brain/machine-learning/), [Brain Robotics](https://research.google.com/teams/brain/robotics/) and [X](https://x.company/) colleagues for their help to this project!
