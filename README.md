@@ -10,6 +10,9 @@ Arbhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
 <sup>x</sup>Google, 
 <sup>*</sup>University of Michigan
 
+### Resources
+[[PDF]](https://xcyan.github.io/geoaware_grasping/) [[Video]](https://youtu.be/ii7CuDZlxZs)
+
 ### Abstract
 
 Learning to interact with objects in the environment is a fundamental AI problem involving perception, motion planning, and control. 
