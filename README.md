@@ -26,6 +26,7 @@ Our contributions are threefold:
 (3) we demonstrate the benefits of the learned geometry-aware representation in grasping planning.
 
 ### Approach
+[<img src="https://umich.box.com/shared/static/qendrl1zuaptuhqmewv2x6senlpt541w.png">](https://umich.box.com/shared/static/qendrl1zuaptuhqmewv2x6senlpt541w.png)
 We develop a two-stage learning framework that performs 3D shape prediction and grasping outcome prediction with geometry-aware representation. Being able to generate 3D object shapes (e.g., volumetric representation) from any scene given 2D sensory input is a very important feature of our geometry-aware agent. More specifically, in our formulation, the geometry-aware representation is (1) an occupancy grid representation of the scene centered at camera target in the world frame and (2) invariant to camera viewpoint and distance.
 
 ### Model Architecture
