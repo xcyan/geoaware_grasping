@@ -3,14 +3,11 @@
 Xinchen Yan<sup>*</sup>, Mohi Khansari<sup>+</sup>, Yunfei Bai<sup>+</sup>, Jasmine Hsu<sup>#</sup>, Arkanath Pathak<sup>x</sup>,
 Arbhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
 
-<sup>#</sup>Google Brain
-
-<sup>+</sup>X Inc
-
-<sup>&</sup>Google Research
-
-<sup>x</sup>Google
-
+#### Affliation
+<sup>#</sup>Google Brain, 
+<sup>+</sup>X Inc, 
+<sup>&</sup>Google Research, 
+<sup>x</sup>Google, 
 <sup>*</sup>University of Michigan
 
 ### Abstract
