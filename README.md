@@ -25,5 +25,7 @@ Our contributions are threefold:
 (2) we demonstrate that the learned geometry-aware representation results in a more robust grasping outcome prediction compared to a baseline model; and 
 (3) we demonstrate the benefits of the learned geometry-aware representation in grasping planning.
 
+### Approach
+[<img src="https://umich.box.com/shared/static/bhs5v3ss7rpl146d73hjjgdkes1mx6y9.png">](https://umich.box.com/shared/static/bhs5v3ss7rpl146d73hjjgdkes1mx6y9.png)
 ### Video Demo
 A short video demo regarding details about data collection and experimental results: [link](https://youtu.be/ii7CuDZlxZs)
