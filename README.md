@@ -38,8 +38,9 @@ Our geometry-aware encoder-decoder network has two components: a 3D shape genera
 The shape generation network has a 2D convolutional shape encoder and a 3D deconvolutional shape decoder followed by a global projection layer.
 The outcome prediction network has a 2D convolutional state encoder and a fully connected outcome predictor with an additional local shape projection layer. 
 
-### Video Demo
-A short video demo regarding details of data collection and experimental results: [link](https://youtu.be/ii7CuDZlxZs)
+### Experiments
+A short video demo on experimental results (please click on the figure below): 
+[<img src="https://umich.box.com/shared/static/wabu23cu6kj04qj8ofo6h5rqy7p4detb.png">](https://youtu.be/ii7CuDZlxZs)
 
 ### Acknowledement
 We thank [Brain Research](https://research.google.com/teams/brain/machine-learning/), [Brain Robotics](https://research.google.com/teams/brain/robotics/) and [X](https://x.company/) colleagues for their help to this project!
