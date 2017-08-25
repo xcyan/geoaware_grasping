@@ -11,7 +11,7 @@ Arbhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
 <sup>*</sup>University of Michigan
 
 ### Resources
-[[PDF]](https://xcyan.github.io/geoaware_grasping/) [[Video]](https://youtu.be/ii7CuDZlxZs)
+[[PDF]](https://arxiv.org/pdf/1708.07303.pdf) [[Video]](https://youtu.be/ii7CuDZlxZs)
 
 ### Abstract
 
