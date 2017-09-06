@@ -1,4 +1,4 @@
-# Learning Grasping Interaction with Geometry-aware Representations
+# Learning Grasping Interaction with 3D Geometry-aware Representations
 ### Authors
 Xinchen Yan<sup>*</sup>, Mohi Khansari<sup>+</sup>, Yunfei Bai<sup>+</sup>, Jasmine Hsu<sup>#</sup>, Arkanath Pathak<sup>x</sup>,
 Abhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
@@ -24,9 +24,11 @@ First, the agent learns to construct its geometry-aware representation of the sc
 Finally, it learns to predict grasping outcome with its built-in geometry-aware representation. 
 The geometry-aware representation plays a key role in relating geometry and interaction via a novel learning-free depth projection layer. 
 Our contributions are threefold: 
-(1) we build a grasping dataset from demonstrations in virtual reality (VR) with rich sensory and interaction annotations; 
+(1) we build a grasping dataset from demonstrations in virtual reality (VR<sup>*</sup>) with rich sensory and interaction annotations; 
 (2) we demonstrate that the learned geometry-aware representation results in a more robust grasping outcome prediction compared to a baseline model; and 
 (3) we demonstrate the benefits of the learned geometry-aware representation in grasping planning.
+
+<sup>*</sup> We use pybullet for VR and simulation ([http://pybullet.org](http://pybullet.org)).
 
 ### Approach
 [<img src="https://umich.box.com/shared/static/qendrl1zuaptuhqmewv2x6senlpt541w.png">](https://umich.box.com/shared/static/qendrl1zuaptuhqmewv2x6senlpt541w.png)
