@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Deep Geometry-aware Grasping
+plugins:
+  - jekyll-redirect-from
