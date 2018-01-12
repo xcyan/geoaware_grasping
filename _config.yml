@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 plugins:
-  - jekyll-redirect-to
+  - jekyll-redirect-from
 title: Deep Geometry-aware Grasping
 redirect_to:
   - https://sites.google.com/site/deep6dofgeoawaregrasping/
