@@ -1,6 +1,6 @@
-# Learning Grasping Interaction with 3D Geometry-aware Representations
+# Learning 6-DOF Grasping Interaction with Deep Geometry-aware 3D Representations
 ### Authors
-Xinchen Yan<sup>*</sup>, Mohi Khansari<sup>+</sup>, Yunfei Bai<sup>+</sup>, Jasmine Hsu<sup>#</sup>, Arkanath Pathak<sup>x</sup>,
+Xinchen Yan<sup>*</sup>, Jasmine Hsu<sup>#</sup>, Mohi Khansari<sup>+</sup>, Yunfei Bai<sup>+</sup>, Arkanath Pathak<sup>x</sup>,
 Abhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
 
 #### Affliation
