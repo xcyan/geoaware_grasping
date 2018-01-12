@@ -12,7 +12,7 @@ Abhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
 
 ### Resources
 [[PDF]](https://arxiv.org/pdf/1708.07303.pdf) [[Video]](https://youtu.be/ii7CuDZlxZs)
-https://github.com/xcyan/geoaware_grasping/edit/master/README.md
+
 * Note: Please check this [Project Page](https://sites.google.com/site/deep6dofgeoawaregrasping/) for updates.
 
 ### Acknowledement
