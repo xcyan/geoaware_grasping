@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-plugins:
+gems:
   - jekyll-redirect-from
 title: Deep Geometry-aware Grasping
 redirect_to:
