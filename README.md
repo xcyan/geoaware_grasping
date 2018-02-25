@@ -11,7 +11,7 @@ Abhinav Gupta<sup>&</sup>, James Davidson<sup>#</sup>, Honglak Lee<sup>#</sup>
 <sup>*</sup>University of Michigan
 
 ### Resources
-[[PDF]](https://arxiv.org/pdf/1708.07303.pdf) [[Video]](https://youtu.be/ii7CuDZlxZs)
+[[PDF]](https://drive.google.com/file/d/1DmLyeGK0Jm0CrXW20Ap9Kz30aItq1cEe/view) [[ArXiv]](https://arxiv.org/pdf/1708.07303.pdf) [[Video]](https://www.youtube.com/watch?v=0QztwcUfLms)
 
 * Note: Please check this [Project Page](https://sites.google.com/site/deep6dofgeoawaregrasping/) for updates.
 
